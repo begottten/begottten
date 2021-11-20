@@ -6,6 +6,11 @@
 - 🧠 I am currently working on a project with authorization and test for students.
 - 📫 How to reach me: ternitern5@mail.ru
 
+## 🛠 Technical Stack
+*   C#,Python,Pascal
+*   MySQL
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=begottten)](https://github.com/anuraghazra/github-readme-stats)
 
 
