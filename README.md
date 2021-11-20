@@ -10,16 +10,9 @@
 *   C#,Python
 *   MySQL
 *   Infowatch TM
-
-
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=begottten&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=begottten&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/begottten/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=begottten&layout=compact"/></a>
-</p>
-
+*   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=begottten)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=begottten&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/romankh3/github-profile-views-counter">
