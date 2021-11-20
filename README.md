@@ -7,8 +7,9 @@
 - 📫 How to reach me: ternitern5@mail.ru
 
 ## 🛠 Technical Stack
-*   C#,Python,Pascal
+*   C#,Python
 *   MySQL
+*   Infowatch TM
 
 
 <p align='center'>
