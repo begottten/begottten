@@ -5,12 +5,8 @@
 - 💼 I am currently studying at the pedagogical college on the course of information security.
 - 🧠 I am currently working on a project with authorization and test for students.
 - 📫 How to reach me: ternitern5@mail.ru
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=begottten&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=begottten&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/begottten/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=begottten&layout=compact"/></a>
-</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=begottten)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div align="center" style="margin: 40px 0">
