@@ -5,6 +5,12 @@
 - 💼 I am currently studying at the pedagogical college on the course of information security.
 - 🧠 I am currently working on a project with authorization and test for students.
 - 📫 How to reach me: ternitern5@mail.ru
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/romankh3/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
+   </a>
+</div>
  
 <!---
 begottten/begottten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
