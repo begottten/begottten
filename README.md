@@ -21,8 +21,8 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=begottten)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=begottten&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align='center'>
-   <a href="https://www.linkedin.com/in/romankh3/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   <a href="https://www.vk.com/in/romankh3/">
+       <img src="https://w7.pngwing.com/pngs/393/184/png-transparent-vk-social-media-computer-icons-like-button-social-network-social-media-angle-text-logo.png"/>
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/romankh3/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=begottten&color=DE002D">
