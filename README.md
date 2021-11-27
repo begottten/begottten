@@ -23,7 +23,7 @@
 <p align='left'>
    <a href="https://www.vk.com/vdmdlg/">
        <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>
-      <p align='center'>
+<p align='leftr'>
    <a href="https://www.instagram.com/vdmdlg/">
        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 <div align="center" style="margin: 40px 0">
@@ -31,7 +31,4 @@
        <img width="175px" src="https://komarev.com/ghpvc/?username=begottten&color=DE002D">
    </a>
 </div>
-<!---
-begottten/begottten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
