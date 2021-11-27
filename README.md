@@ -27,7 +27,7 @@
    <a href="https://www.instagram.com/vdmdlg/">
        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
+   <a href="https://github.com/begottten/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=begottten&color=DE002D">
    </a>
 </div>
