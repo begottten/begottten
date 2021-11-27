@@ -10,11 +10,11 @@
 *   C#,Python
 *   MySQL
 *   Infowatch TM
-##  Art Stack
+## 🖌 Art Stack
 *   Adobe Photoshop
 *   Cinema 4D
 *   Adobe Illustrator
-## Web-design stack
+## 💻 Web-design stack
 *   WordPress
 *   Joomla
 ## 📈 Stats
