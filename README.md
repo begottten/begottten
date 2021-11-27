@@ -10,6 +10,13 @@
 *   C#,Python
 *   MySQL
 *   Infowatch TM
+##  Art Stack
+*   Adobe Photoshop
+*   Cinema 4D
+*   Adobe Illustrator
+# Web-design stack
+*   WordPress
+*   Joomla
 ## 📈 Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=begottten)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=begottten&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
