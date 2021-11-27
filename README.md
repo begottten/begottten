@@ -21,7 +21,7 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=begottten)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=begottten&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align='center'>
-   <a href="https://www.vk.com/in/vdmdlg/">
+   <a href="https://www.vk.com/vdmdlg/">
        <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/romankh3/github-profile-views-counter">
