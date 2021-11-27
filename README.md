@@ -10,6 +10,7 @@
 *   C#,Python
 *   MySQL
 *   Infowatch TM
+*   VMware
 ## 🖌 Art Stack
 *   Adobe Photoshop
 *   Cinema 4D
