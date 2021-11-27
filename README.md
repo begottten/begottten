@@ -14,7 +14,7 @@
 *   Adobe Photoshop
 *   Cinema 4D
 *   Adobe Illustrator
-# Web-design stack
+## Web-design stack
 *   WordPress
 *   Joomla
 ## 📈 Stats
