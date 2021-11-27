@@ -22,7 +22,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=begottten&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align='center'>
    <a href="https://www.vk.com/in/vdmdlg/">
-       <img src="https://pngicon.ru/file/uploads/vk.png"/>
+       <img src="https://pngicon.ru/file/uploads/vk-64x64.png"/>
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/romankh3/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=begottten&color=DE002D">
