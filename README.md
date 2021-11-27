@@ -23,11 +23,7 @@
 <p align='left'>
    <a href="https://www.vk.com/vdmdlg/">
        <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=begottten&color=DE002D">
-   </a>
-</div>
+
  
 <!---
 begottten/begottten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
