@@ -1,22 +1,22 @@
-## 📎 About me
+## 📎 About me / Обо мне 
 
-- 👋 Hi, I’m **Vadim Dolgopolov**
-- 👀 I’m interested in **programming and information security**.
-- 💼 I am currently studying at the pedagogical college on the course of information security.
-- 🧠 I am currently working on a project with authorization and test for students.
-- 📫 How to reach me: ternitern5@mail.ru
+- 👋 Hi, I’m **Vadim Dolgopolov** / Привет, я **Вадим Долгополов.
+- 👀 I’m interested in **programming and information security**. /  Я интересуюсь **программированием и информационной безопасностью.
+- 💼 I am currently studying at the pedagogical college on the course of information security. / Я сейчас учусь в педагогическом колледже по курсу информационной безопасности.
+- 🧠 I am currently working on a project with authorization and registration. / В настоящее время я работаю над проектом с авторизацией и регистрацией.
+- 📫 How to reach me: ternitern5@mail.ru / Как связаться со мной: ternitern5@mail.ru
 
-## 🛠 Technical Stack
+## 🛠 Technical Stack 
 *   C#,Python
 *   MySQL
 *   Infowatch TM
 *   VMware
 *   1C:Предприятие 
-## 🖌 Art Stack
+## 🖌 Art Stack 
 *   Adobe Photoshop
 *   Cinema 4D
 *   Adobe Illustrator
-## 💻 Web-design stack
+## 💻 Web-design stack 
 *   WordPress
 *   Joomla
 ## 📈 Stats
