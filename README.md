@@ -32,7 +32,7 @@
        <img width="175px" src="https://komarev.com/ghpvc/?username=begottten&color=DE002D">
    </a>
 </div>
-      [HaoZip ZIP Архив.zip](https://github.com/begottten/begottten/files/7611344/HaoZip.ZIP.zip)
+      
 
       
 
