@@ -11,7 +11,8 @@
 *   MySQL
 *   Infowatch TM
 *   VMware
-*   1C:Предприятие 
+*   1C:Предприятие
+*   Cisco Packet Tracer 
 ## 🖌 Art Stack 
 *   Adobe Photoshop
 *   Cinema 4D
