@@ -35,9 +35,9 @@
       
 ## Courses
       
-![1](https://user-images.githubusercontent.com/93982982/146654104-003a0a70-3d4e-4e14-a9ac-77df0b71a2c3.jpg)
-![2](https://user-images.githubusercontent.com/93982982/146654115-4e5a3c02-f113-46db-bdc1-b0ae7917d8d2.jpg)
-![3](https://user-images.githubusercontent.com/93982982/146654116-9ebce26c-fd3c-4b77-ad96-6c9a937df86f.jpg)
-![4](https://user-images.githubusercontent.com/93982982/146654118-c04d3f79-7cab-4584-a0a5-2848ca079e9f.jpg)
+![1](https://user-images.githubusercontent.com/93982982/146654162-a7a8ea1a-fc3c-475c-a363-7faad3ee3308.jpg)
+![2](https://user-images.githubusercontent.com/93982982/146654163-5d8feb15-d8f7-48fb-9fbd-a6914eb9690f.jpg)
+![3](https://user-images.githubusercontent.com/93982982/146654165-48664aea-77be-4d99-9c6c-26b4fc2a9a14.jpg)
+![4](https://user-images.githubusercontent.com/93982982/146654167-c246a477-4d82-4b03-ad63-7a5f2df9a439.jpg)
 
 
