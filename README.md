@@ -36,10 +36,8 @@
 ## Courses
 
 * Развёртывание Windows 7 
-![1](https://user-images.githubusercontent.com/93982982/146654398-5a6c816b-2e86-4a1d-a0d3-b77aae3a55ea.jpg)
-
 * Переферийные устройства вычислительной техники
-![3](https://user-images.githubusercontent.com/93982982/146654386-f364e8e7-50c3-4336-ab69-3162841ec658.jpg)
+
       
       
 
