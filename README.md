@@ -34,10 +34,12 @@
 </div>
       
 ## Courses
+
+* Развёртывание Windows 7 
+[1](https://user-images.githubusercontent.com/93982982/146654375-56e8bc63-e5f8-4be3-aea8-0882b6a85101.jpg)
+* Переферийные устройства вычислительной техники
+![3](https://user-images.githubusercontent.com/93982982/146654386-f364e8e7-50c3-4336-ab69-3162841ec658.jpg)
       
-<img scr ="https://user-images.githubusercontent.com/93982982/146654162-a7a8ea1a-fc3c-475c-a363-7faad3ee3308.jpg" width = "200"/>
-<img scr ="https://user-images.githubusercontent.com/93982982/146654163-5d8feb15-d8f7-48fb-9fbd-a6914eb9690f.jpg" width = "200"/>
-<img scr ="https://user-images.githubusercontent.com/93982982/146654165-48664aea-77be-4d99-9c6c-26b4fc2a9a14.jpg" width = "200"/>
-<img scr ="https://user-images.githubusercontent.com/93982982/146654167-c246a477-4d82-4b03-ad63-7a5f2df9a439.jpg" width = "200"/>
+      
 
 
