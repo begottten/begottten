@@ -1,4 +1,4 @@
-![Alt Text](begottten/assets/download (1).gif)
+![Alt Text](https://raw.githubusercontent.com/begottten/begottten/main/assets/download%20(1).gif)
 
 ## 📎 About me / Обо мне 
 
