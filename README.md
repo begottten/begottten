@@ -23,6 +23,8 @@
 ## 🗂 Additional information
 [![click me](https://github.com/begottten/begottten/blob/main/assets/Courss.jpg)](https://github.com/begottten/begottten/blob/main/README%20My%20Courses%20.md)
 [![click me](https://github.com/begottten/begottten/blob/main/assets/livelib.jpg)](https://www.livelib.ru/reader/begotten)
+[![click me](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/bxgottxn/)
+
 
 ## 📈 Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=begottten)](https://github.com/anuraghazra/github-readme-stats)
