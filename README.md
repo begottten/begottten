@@ -1,3 +1,4 @@
+[![Header](https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/header.png)](https://www.shpavda.com/)
 ## 📎 About me / Обо мне 
 
 - 👋 Hi, I’m **Vadim Dolgopolov** / Привет, я **Вадим Долгополов**.
