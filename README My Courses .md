@@ -1,4 +1,5 @@
-## Сourses Intuit
+## Сourses 
+https://intuit.ru/intuituser/study/diplomas
 ***1. Развёртывание Windows 7***
 
 ![Nekommerch-2-1464532-ORF](https://user-images.githubusercontent.com/93982982/146992288-bc323961-5c44-42de-be1a-6dec979a87bd.jpg)
