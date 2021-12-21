@@ -1,5 +1,5 @@
-[![Header]()![download (1)](https://user-images.githubusercontent.com/93982982/146989312-e2fc5e09-eff8-46ed-8857-99e955c9323e.gif)
-]
+![Alt Text](https://user-images.githubusercontent.com/93982982/146989312-e2fc5e09-eff8-46ed-8857-99e955c9323e.gif)
+
 ## 📎 About me / Обо мне 
 
 - 👋 Hi, I’m **Vadim Dolgopolov** / Привет, я **Вадим Долгополов**.
