@@ -35,7 +35,7 @@
 </div>
       
 
-![click me](https://raw.githubusercontent.com/begottten/begottten/main/assets/123.png) (https://www.shpavda.com/)
+[![click me](https://raw.githubusercontent.com/begottten/begottten/main/assets/123.png)](https://github.com/begottten/begottten/blob/main/README%20My%20Courses%20.md)
 
       
       
