@@ -6,9 +6,8 @@
 - 🧠 I am currently working on a project with authorization and registration. / В настоящее время я работаю над проектом с авторизацией и регистрацией.
 - 📫 How to reach me: ternitern5@mail.ru / Как связаться со мной: ternitern5@mail.ru
 
-
-                        [![click me](https://img.shields.io/badge/TRANSLATE-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black)]
-
+[![click me](https://img.shields.io/badge/Translate-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black)](https://github.com/begottten/begottten/blob/main/RuTranslate.md)
+                      
 ## 🛠 Technical Stack 
 *   C#,Python
 *   MySQL
