@@ -8,7 +8,9 @@
 <p align='center'>
    <a href="https://github.com/begottten/begottten/blob/main/RuTranslate.md">
        <img src="https://img.shields.io/badge/Translate-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black"/>
-
+       </a>
+ </div>
+ 
 ## 🛠 Technical Stack 
 *   C#,Python
 *   MySQL
