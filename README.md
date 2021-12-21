@@ -22,7 +22,7 @@
 *   Joomla
 ## 🗂 Additional information
 [![click me](https://github.com/begottten/begottten/blob/main/assets/Courss.jpg)](https://github.com/begottten/begottten/blob/main/README%20My%20Courses%20.md)
-[![click me](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=LiveLib&logoColor=white)](https://www.livelib.ru/reader/begotten)
+[![click me](https://img.shields.io/badge/LiveLib-8DD6F9?style=for-the-badge&logo=LiveLib&logoColor=white)](https://www.livelib.ru/reader/begotten)
 [![click me](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/bxgottxn/)
 
 
