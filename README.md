@@ -1,5 +1,3 @@
-![Alt Text](https://raw.githubusercontent.com/begottten/begottten/main/assets/download%20(1).gif)
-
 ## 📎 About me / Обо мне 
 
 - 👋 Hi, I’m **Vadim Dolgopolov** / Привет, я **Вадим Долгополов**.
