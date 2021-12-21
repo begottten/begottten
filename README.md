@@ -20,7 +20,7 @@
 ## 💻 Web-design stack 
 *   WordPress
 *   Joomla
-## 🗂 Regalia
+## 🗂 Additional information
 [![click me](https://github.com/begottten/begottten/blob/main/assets/Courss.jpg)](https://github.com/begottten/begottten/blob/main/README%20My%20Courses%20.md)
 [![click me](https://github.com/begottten/begottten/blob/main/assets/livelib.jpg)](https://www.livelib.ru/reader/begotten)
 
