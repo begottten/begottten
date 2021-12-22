@@ -1,4 +1,4 @@
-## 📎 About me / Обо мне 
+## 📎 About me 
 
 - 👋 Hi, I’m **Vadim Dolgopolov** .
 - 👀 I’m interested in **programming and information security**. 
