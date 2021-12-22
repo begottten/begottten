@@ -12,3 +12,9 @@ https://intuit.ru/intuituser/study/diplomas
 
 ![Nekommerch-2-1502093-ORF](https://user-images.githubusercontent.com/93982982/147134810-02aa8227-83ea-4b84-aed2-c8929fe4d8fd.jpg)
 
+##
+![radimichi](https://user-images.githubusercontent.com/93982982/147138051-73853d61-78f9-4381-8b95-431930b14691.jpg)
+
+##
+
+![school](https://user-images.githubusercontent.com/93982982/147138081-c7f8d22d-6ffb-467c-a77c-bbe4a59160bd.jpg)
