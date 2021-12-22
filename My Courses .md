@@ -21,6 +21,6 @@ https://intuit.ru/intuituser/study/diplomas
 
 <p align='center'>
    <a href="https://github.com/begottten">
-       <img src="https://img.shields.io/badge/Back-black?style=for-the-badge&logo=&logoColor=blue,"click me""/>
+       <img src="https://img.shields.io/badge/Back-black?style=for-the-badge&logo=&logoColor=blue"/>
        </a>
  </div>
